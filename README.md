@@ -156,6 +156,12 @@ $ has-atob-support
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/assert-has-btoa-support`][@stdlib/assert/has-btoa-support]</span><span class="delimiter">: </span><span class="description">detect native btoa support.</span>
+
 </section>
 
 <!-- /.related -->
@@ -237,6 +243,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-has-atob-support/main/LICENSE
 
 [mdn-atob]: https://developer.mozilla.org/en-US/docs/Web/API/Window/atob
+
+<!-- <related-links> -->
+
+[@stdlib/assert/has-btoa-support]: https://github.com/stdlib-js/assert-has-btoa-support
+
+<!-- </related-links> -->
 
 </section>
 
