@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasAtobSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-atob-support@esm/index.mjs';
+import hasAtobSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-atob-support@v0.1.1-esm/index.mjs';
 ```
 
 #### hasAtobSupport()
@@ -70,7 +70,7 @@ var bool = hasAtobSupport();
 <body>
 <script type="module">
 
-import hasAtobSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-atob-support@esm/index.mjs';
+import hasAtobSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-atob-support@v0.1.1-esm/index.mjs';
 
 var bool = hasAtobSupport();
 if ( bool ) {
